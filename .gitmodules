@@ -4,3 +4,6 @@
 [submodule "create-react-app-test"]
 	path = create-react-app-test
 	url = https://github.com/phatle96/create-react-app-lambda.git
+[submodule "local-submodule"]
+	path = local-submodule
+	url = https://github.com/phatle96/new-submodule
