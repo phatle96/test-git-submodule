@@ -1,3 +1,6 @@
 [submodule "cousera-project"]
 	path = cousera-project
 	url = https://github.com/phatle96/coursera_test.git
+[submodule "create-react-app-test"]
+	path = create-react-app-test
+	url = https://github.com/phatle96/create-react-app-lambda.git
